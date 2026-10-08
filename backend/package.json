@@ -1,0 +1,19 @@
+{
+  "name": "finance360-backend",
+  "version": "1.0.0",
+  "description": "Finance360 API Server - All-in-One Personal Finance & Investment Platform",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [
+    "fintech",
+    "finance",
+    "investment",
+    "portfolio"
+  ],
+  "author": "",
+  "license": "ISC"
+}
